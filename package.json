@@ -2,7 +2,9 @@
   "name": "move-cursor-lines",
   "displayName": "Move Cursor Lines",
   "description": "Allows you to move the cursor relatively along the rows",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "publisher": "Lisovsky-UwU",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -10,6 +12,9 @@
     "Keymaps",
     "Visualization"
   ],
+  "repository": {
+		"url": "https://github.com/Lisovsky-UwU/vsc-move-cursor-lines"
+	},
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {

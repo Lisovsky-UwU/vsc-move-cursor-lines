@@ -31,3 +31,13 @@ This extension contributes the following settings:
 Not at the moment, you can configure the behavior of moving by columns with the `moveCursorLines.changeColumn` parameter.
 
 ## Release Notes
+
+### 1.0.1
+
+Add extension icon
+
+---
+
+### 1.0.0
+
+Initial release of Move Cursor Lines
